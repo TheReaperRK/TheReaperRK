@@ -80,21 +80,21 @@ Un proyecto en Android que toma como finalidad que cualquier persona pueda ofrec
 
 ### Estructura del proyecto:
  📂 Proyecto
- ├── 📂 backend (Java, Spring Boot)
- │   ├── 📂 src/main/java/... (Código fuente del backend)
- │   ├── 📂 src/main/resources/... (Configuraciones y recursos)
- │   ├── 📄 pom.xml (Gestión de dependencias con Maven)
- │   ├── 📄 application.properties (Configuración de la base de datos)
- │
- ├── 📂 frontend (Android, Jetpack Compose, Kotlin)
- │   ├── 📂 src/main/java/... (Código fuente del frontend en Kotlin)
- │   ├── 📂 src/main/res/... (Recursos de la aplicación Android)
- │   ├── 📄 build.gradle (Gestión de dependencias con Gradle)
- │   ├── 📄 AndroidManifest.xml (Configuración de la aplicación Android)
- │
- ├── 📄 .gitlab-ci.yml (Configuración de CI/CD en GitLab)
- ├── 📄 README.md (Este archivo)
- └── 📂 docs/... (Documentación adicional)
+├── 📂 backend (Java, Spring Boot)
+│ ├── 📂 src/main/java/... (Código fuente del backend)
+│ ├── 📂 src/main/resources/... (Configuraciones y recursos)
+│ ├── 📄 pom.xml (Gestión de dependencias con Maven)
+│ ├── 📄 application.properties (Configuración de la base de datos)
+│
+├── 📂 frontend (Android, Jetpack Compose, Kotlin)
+│ ├── 📂 src/main/java/... (Código fuente del frontend en Kotlin)
+│ ├── 📂 src/main/res/... (Recursos de la aplicación Android)
+│ ├── 📄 build.gradle (Gestión de dependencias con Gradle)
+│ ├── 📄 AndroidManifest.xml (Configuración de la aplicación Android)
+│
+├── 📄 .gitlab-ci.yml (Configuración de CI/CD en GitLab)
+├── 📄 README.md (Este archivo)
+└── 📂 docs/... (Documentación adicional)
 
 #### Enlaces de los contribuidores:
 - [Control de Alquiler de Coches - Repositorio GitHub](https://github.com/raulAdan99/ranaredb.git)
