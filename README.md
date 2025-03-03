@@ -45,9 +45,9 @@ Un proyecto diseñado para gestionar de forma eficiente el alquiler de vehículo
 - **Maven:** Herramienta para la gestión de dependencias y construcción del proyecto
 
 #### Enlaces:
-- [Control de Alquiler de Coches - Repositorio GitHub](https://github.com/raulAdan99/ranaredb.git)
-- [Presentación en Canva](https://www.canva.com/design/DAGbjgoo1rc/9eudWP9foC1aYw9ay-fK1w/edit?utm_content=DAGbjgoo1rc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- [Memoria del Proyecto en Google Docs](https://docs.google.com/document/d/1I8rbTUmTRgoq9Yb1XuzH5R812gyzaxtdh6coBAhTTcw/edit?usp=sharing)
+- [Control de Alquiler de Coches - Repositorio GitHub](https://github.com/TheReaperRK/CarConnect)
+- [Presentación en Canva](https://www.canva.com/design/DAGbjsGQslY/aDQfhzQyG52-eK777Mivng/edit?utm_content=DAGbjsGQslY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Memoria del Proyecto en Google Docs](https://docs.google.com/document/d/1rDW2JKC5IKOYyLZL2HBUOGQDDR4lrDda6XauRIjkXtY/edit?tab=t.0)
 
   ### 3. AdMe - Foro de anuncios
 Un proyecto en Android que toma como finalidad que cualquier persona pueda ofrecer servicios, o descubrir quien los ofrece.
@@ -97,6 +97,6 @@ Un proyecto en Android que toma como finalidad que cualquier persona pueda ofrec
 
 
 #### Enlaces:
-- [AdMe - Foro de anuncios - Repositorio GitHub](https://github.com/raulAdan99/ranaredb.git)
-- [AdMe - Foro de anuncios - Repositorio GitLab](https://github.com/raulAdan99/ranaredb.git)
+- [AdMe - Foro de anuncios - Repositorio GitHub]()
+- [AdMe - Foro de anuncios - Repositorio GitLab](https://gitlab.com/carlosmendozajimenez/proyect3_group4)
 
