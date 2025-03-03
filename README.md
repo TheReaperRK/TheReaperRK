@@ -78,25 +78,25 @@ Un proyecto en Android que toma como finalidad que cualquier persona pueda ofrec
 - **Gradle:** Utilizado para gestionar dependencias y configuración en el frontend de Android.
 - **GitLab:** Plataforma para la gestión del código fuente y la integración continua.
 
-### Estructura del proyecto:
- 📂 Proyecto
-├── 📂 backend (Java, Spring Boot)
-│ ├── 📂 src/main/java/... (Código fuente del backend)
-│ ├── 📂 src/main/resources/... (Configuraciones y recursos)
-│ ├── 📄 pom.xml (Gestión de dependencias con Maven)
-│ ├── 📄 application.properties (Configuración de la base de datos)
-│
-├── 📂 frontend (Android, Jetpack Compose, Kotlin)
-│ ├── 📂 src/main/java/... (Código fuente del frontend en Kotlin)
-│ ├── 📂 src/main/res/... (Recursos de la aplicación Android)
-│ ├── 📄 build.gradle (Gestión de dependencias con Gradle)
-│ ├── 📄 AndroidManifest.xml (Configuración de la aplicación Android)
-│
-├── 📄 .gitlab-ci.yml (Configuración de CI/CD en GitLab)
-├── 📄 README.md (Este archivo)
-└── 📂 docs/... (Documentación adicional)
+## Estructura del Proyecto
 
-#### Enlaces de los contribuidores:
-- [Control de Alquiler de Coches - Repositorio GitHub](https://github.com/raulAdan99/ranaredb.git)
-- [Presentación en Canva](https://www.canva.com/design/DAGbjgoo1rc/9eudWP9foC1aYw9ay-fK1w/edit?utm_content=DAGbjgoo1rc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-- [Memoria del Proyecto en Google Docs](https://docs.google.com/document/d/1I8rbTUmTRgoq9Yb1XuzH5R812gyzaxtdh6coBAhTTcw/edit?usp=sharing)
+- 📂 **AdMe**
+  - 📂 **backend** (Java, Spring Boot)
+    - 📂 `src/main/java/` (Código fuente del backend)
+    - 📂 `src/main/resources/` (Configuraciones y recursos)
+    - 📄 `pom.xml` (Gestión de dependencias con Maven)
+    - 📄 `application.properties` (Configuración de la base de datos)
+  - 📂 **frontend** (Android, Jetpack Compose, Kotlin)
+    - 📂 `src/main/java/` (Código fuente del frontend en Kotlin)
+    - 📂 `src/main/res/` (Recursos de la aplicación Android)
+    - 📄 `build.gradle` (Gestión de dependencias con Gradle)
+    - 📄 `AndroidManifest.xml` (Configuración de la aplicación Android)
+  - 📄 `README.md` (Este archivo)
+  - 📂 `docs/` (Documentación adicional)
+
+
+
+#### Enlaces:
+- [AdMe - Foro de anuncios - Repositorio GitHub](https://github.com/raulAdan99/ranaredb.git)
+- [AdMe - Foro de anuncios - Repositorio GitLab](https://github.com/raulAdan99/ranaredb.git)
+
