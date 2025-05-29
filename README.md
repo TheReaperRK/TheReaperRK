@@ -6,6 +6,7 @@
 - **Spring Boot**
 - **Kotlin**
 - **Jetpack Compose**
+- **C# Unity**
 
 ## Proyectos personales
 
@@ -100,3 +101,81 @@ Un proyecto en Android que toma como finalidad que cualquier persona pueda ofrec
 - [AdMe - Foro de anuncios - Repositorio GitHub](https://github.com/TheReaperRK/AdMe_Project)
 - [AdMe - Foro de anuncios - Repositorio GitLab](https://gitlab.com/carlosmendozajimenez/proyect3_group4)
 
+# RoboCrysis - Videojuego 3D tipo shooter de oleadas
+
+**RoboCrysis** es un videojuego desarrollado en Unity con cámara cenital (top-down), estilo shooter/survival. El jugador debe sobrevivir a oleadas de enemigos que aparecen desde distintos puntos del mapa. Un proyecto desarrollado en una semana y media, enfocado a una experiencia directa, rejugable y sin progreso acumulativo.
+
+---
+
+## 🎮 Características principales
+
+### 🔭 Vista 3D cenital
+- Estética estilizada y ambientación tecnológica.
+- Cámara fija con perspectiva superior para visión estratégica del entorno.
+
+### 🧟‍♂️ Sistema de oleadas
+- Enemigos aparecen aleatoriamente desde zonas de spawn definidas.
+- Cada oleada es más difícil que la anterior.
+- La victoria se alcanza al superar la oleada 10.
+
+### 🤖 Inteligencia artificial enemiga
+- Patrullaje y persecución del jugador.
+- Acciones: idle, caminar, atacar.
+- Al morir, pueden dejar pociones curativas (probabilidad 1/20).
+
+### 🧍‍♂️ Mecánicas del jugador
+- Movimiento con teclado (WASD) y apuntado con ratón.
+- Disparo con clic izquierdo (pistola única).
+- Recolección de pociones para restaurar salud.
+- Visión limitada en modo difícil (niebla de guerra).
+
+### 🧩 Gestión de menús e interfaz
+- Menú principal, menú de opciones (volumen y dificultad), pausa y pantalla final.
+- HUD con vida, kills acumuladas y número de oleada.
+- Pantalla de victoria o derrota con resumen de la partida.
+
+---
+
+## 🎮 Controles
+
+- `WASD`: Movimiento  
+- `Ratón`: Apuntar  
+- `Clic izquierdo`: Disparar  
+- `ESC`: Menú de pausa
+
+---
+
+## 🛠️ Tecnologías utilizadas
+
+- **Unity (C#)**: Motor principal del juego.
+- **EasyStart Third Person Controller**: Sistema base de movimiento del jugador.
+- **AllSkyFree**: Skydomes y cielos HDRI para exteriores.
+- **Cyberpunk Material Pack**: Materiales estilizados aplicados a edificios y paredes.
+- **Low Poly Pistol Weapon Pack 1**: Modelo del arma principal.
+- **PolyRonin**: Modelos low poly para jugador y enemigos.
+- **Raptor3D**: Helicóptero decorativo.
+- **Sounds (SFX)**: Biblioteca de efectos de disparo, pasos, pociones, etc.
+- **TileableBricksWall**: Textura de ladrillo repetible usada en estructuras.
+
+---
+
+## 💾 Requisitos mínimos
+
+- **Sistema Operativo**: Windows 10 / Ubuntu  
+- **CPU**: Intel i3 o equivalente  
+- **RAM**: 4 GB  
+- **GPU**: Gráfica integrada  
+- **Espacio en disco**: < 500 MB
+
+---
+
+## 🚀 Instalación
+
+1. Descargar y extraer el archivo `.zip`.
+2. Ejecutar el archivo `RoboCrysis.exe`.
+
+---
+
+#### Enlaces:
+- [RoboCrysisis - Repositorio GitHub]()
+- [RoboCrysisis - Repositorio GitLab](https://gitlab.com/carlosmendozajimenez/robocrysys)
