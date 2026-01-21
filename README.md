@@ -8,9 +8,9 @@
 - **Jetpack Compose**
 - **C# Unity**
 
-## Proyectos personales
+# Proyectos personales
 
-### 1. Sistema de manejo de stock para almacenes
+## 1. Sistema de manejo de stock para almacenes
 Un proyecto desarrollado para gestionar de forma eficiente el inventario de un almacén. Incluye funcionalidades para la entrada y salida de productos, generación de reportes de stock y alertas cuando los niveles de inventario están bajos.
 
 **Tecnologías utilizadas:**
@@ -22,10 +22,10 @@ Un proyecto desarrollado para gestionar de forma eficiente el inventario de un a
 
 ---
 
-### 2. Sistema de Alquiler de Coches
+## 2. Sistema de Alquiler de Coches
 Un proyecto diseñado para gestionar de forma eficiente el alquiler de vehículos. Incluye funcionalidades avanzadas para la administración de clientes y vehículos, así como la gestión de reservas y generación de reportes.
 
-#### Características principales:
+### Características principales:
 - **Gestión de vehículos:**
   - Registro de nuevos coches
   - Estado de los vehículos (disponible, alquilado, en mantenimiento)
@@ -38,22 +38,22 @@ Un proyecto diseñado para gestionar de forma eficiente el alquiler de vehículo
 - **Alertas:**
   - Notificaciones para devoluciones próximas y mantenimiento de vehículos
 
-#### Tecnologías utilizadas:
+### Tecnologías utilizadas:
 - **Java:** Lenguaje principal para la lógica de la aplicación
 - **SQL:** Base de datos para almacenar información de vehículos, clientes y reservas
 - **JavaFX:** Interfaz gráfica amigable y fácil de usar
 - **Spring Boot:** Framework para construir el backend con REST API y gestión de servicios
 - **Maven:** Herramienta para la gestión de dependencias y construcción del proyecto
 
-#### Enlaces:
+### Enlaces:
 - [Control de Alquiler de Coches - Repositorio GitHub](https://github.com/TheReaperRK/CarConnect)
 - [Presentación en Canva](https://www.canva.com/design/DAGbjsGQslY/aDQfhzQyG52-eK777Mivng/edit?utm_content=DAGbjsGQslY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - [Memoria del Proyecto en Google Docs](https://docs.google.com/document/d/1rDW2JKC5IKOYyLZL2HBUOGQDDR4lrDda6XauRIjkXtY/edit?tab=t.0)
 
-  ### 3. AdMe - Foro de anuncios
+  ## 3. AdMe - Foro de anuncios
 Un proyecto en Android que toma como finalidad que cualquier persona pueda ofrecer servicios, o descubrir quien los ofrece.
 
-#### Características principales:
+### Características principales:
 - **Gestión de anuncios**
   - Publica tus anuncios
   - Consulta los anuncios de otras personas filtrando por categorias y consulta informacion de quien lo ofrece.
@@ -69,7 +69,7 @@ Un proyecto en Android que toma como finalidad que cualquier persona pueda ofrec
 - **Errores:**
   - Gestion de errores en formularios, mala utilizacion de credenciales o bien si el servidor no esta respondiendo.
 
-#### Tecnologías utilizadas:
+### Tecnologías utilizadas:
 - **Java:** Lenguaje principal para la lógica de la aplicación en el backend.
 - **Spring Boot:** Framework para construir el backend con REST API y gestión de servicios.
 - **SQL (MySQL):** Base de datos para almacenar información de anuncios, usuarios y categorías.
@@ -97,7 +97,7 @@ Un proyecto en Android que toma como finalidad que cualquier persona pueda ofrec
 
 
 
-#### Enlaces:
+### Enlaces:
 - [AdMe - Foro de anuncios - Repositorio GitHub](https://github.com/TheReaperRK/AdMe_Project)
 - [AdMe - Foro de anuncios - Repositorio GitLab](https://gitlab.com/carlosmendozajimenez/proyect3_group4)
 
