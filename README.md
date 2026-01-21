@@ -50,7 +50,7 @@ Un proyecto diseñado para gestionar de forma eficiente el alquiler de vehículo
 - [Presentación en Canva](https://www.canva.com/design/DAGbjsGQslY/aDQfhzQyG52-eK777Mivng/edit?utm_content=DAGbjsGQslY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - [Memoria del Proyecto en Google Docs](https://docs.google.com/document/d/1rDW2JKC5IKOYyLZL2HBUOGQDDR4lrDda6XauRIjkXtY/edit?tab=t.0)
 
-  ## 3. AdMe - Foro de anuncios
+## 3. AdMe - Foro de anuncios
 Un proyecto en Android que toma como finalidad que cualquier persona pueda ofrecer servicios, o descubrir quien los ofrece.
 
 ### Características principales:
