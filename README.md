@@ -1,24 +1,20 @@
 # Carlos Mendoza Jiménez
 
-### 🌱 Actualmente profundizando conocimientos en:
-- **Java**
-- **PHP**
-- **Spring Boot**
-- **Kotlin**
-- **Jetpack Compose**
-- **C# Unity**
+## Desarrollador de software junior  
+Especializado en **sistemas embebidos, backend y desarrollo móvil**.  
+Formación finalizada en Desarrollo de Aplicaciones Multiplataforma, con experiencia práctica en proyectos académicos y personales, integración hardware–software y desarrollo de aplicaciones completas.
+
+## Áreas de competencia
+- **Backend**: Java, Spring Boot, APIs REST, SQL
+- **Desarrollo móvil**: Android, Kotlin, Jetpack Compose
+- **Sistemas embebidos / IoT**: C, microcontroladores, integración hardware–software
+- **Otros**: PHP, Maven, Gradle, Git
+- **Desarrollo de videojuegos**: Unity (C#)
 
 # Proyectos personales
 
 ## 1. Sistema de manejo de stock para almacenes
 Un proyecto desarrollado para gestionar de forma eficiente el inventario de un almacén. Incluye funcionalidades para la entrada y salida de productos, generación de reportes de stock y alertas cuando los niveles de inventario están bajos.
-
-**Tecnologías utilizadas:**
-- **Java**
-- **SQL**
-- **JavaFX**
-- **Spring Boot**
-- **Maven**
 
 ---
 
