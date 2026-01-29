@@ -175,3 +175,95 @@ Un proyecto en Android que toma como finalidad que cualquier persona pueda ofrec
 #### Enlaces:
 - [RoboCrysisis - Repositorio GitHub]()
 - [RoboCrysisis - Repositorio GitLab](https://gitlab.com/carlosmendozajimenez/robocrysys)
+
+
+# 6. EntreBicis – Plataforma de movilidad sostenible para ciclistas
+
+**EntreBicis** es una plataforma multiplataforma orientada a fomentar el uso de la bicicleta como medio de transporte sostenible, permitiendo a los usuarios registrar rutas mediante GPS, acumular puntos por la distancia recorrida y canjearlos por recompensas en comercios colaboradores.
+
+El proyecto está compuesto por una aplicación móvil Android para los ciclistas, un backend desarrollado en Spring Boot y un panel web administrativo para la gestión completa del sistema. Se trata de un proyecto de arquitectura cliente–servidor con integración de geolocalización, lógica de negocio, persistencia de datos y despliegue mediante contenedores.
+
+---
+
+## Objetivo del proyecto
+- Incentivar el uso de la bicicleta mediante un sistema de gamificación.
+- Permitir a los usuarios registrar rutas reales utilizando GPS.
+- Recompensar la actividad física y sostenible con puntos canjeables.
+- Proporcionar a los administradores una herramienta de gestión y validación de rutas, usuarios y recompensas.
+
+---
+
+## Funcionalidades principales
+
+### Gestión de rutas
+- Inicio y finalización de rutas usando geolocalización GPS.
+- Registro automático de la distancia recorrida y del tiempo total.
+- Historial de rutas asociadas a cada usuario.
+- Validación de rutas desde el panel administrativo.
+
+### Sistema de puntos y recompensas
+- Asignación automática de puntos en función de la distancia recorrida.
+- Acumulación de puntos en el perfil del usuario.
+- Canje de puntos por recompensas disponibles.
+- Gestión del catálogo de recompensas desde el panel web.
+
+### Gestión de usuarios
+- Registro e inicio de sesión de usuarios ciclistas.
+- Diferenciación de roles (usuarios y administradores).
+- Administración de cuentas desde el panel web.
+
+### Panel de administración
+- Gestión completa de usuarios.
+- Validación y control de rutas registradas.
+- Creación, edición y eliminación de recompensas.
+- Consulta de estadísticas de uso y actividad.
+
+### Aplicación móvil Android
+- Interfaz moderna y fluida.
+- Registro de rutas en tiempo real.
+- Visualización de puntos acumulados.
+- Consulta de recompensas disponibles.
+- Enfoque en la experiencia de usuario.
+
+---
+
+## Tecnologías utilizadas
+
+### Backend
+- **Java**
+- **Spring Boot**
+- **SQL**
+- **Docker**
+- **Docker Compose**
+
+### Frontend móvil
+- **Android**
+- **Kotlin**
+- **Jetpack Compose**
+- **Servicios de localización (GPS)**
+
+### Frontend web
+- Panel web administrativo
+- Consumo de API REST
+
+---
+
+## Estructura del proyecto
+
+- 📂 **EntreBicis**
+  - 📂 **backend**
+    - 📂 `src/main/java/` (Lógica de negocio y controladores)
+    - 📂 `src/main/resources/` (Configuraciones)
+    - 📄 `application.properties`
+  - 📂 **frontend** (Panel web administrativo)
+  - 📂 **mobile-app** (Aplicación Android)
+  - 📄 `docker-compose.yml` (Despliegue del sistema)
+  - 📄 `database.sql` (Modelo inicial de la base de datos)
+  - 📄 `README.md` (Documentación del proyecto)
+
+---
+
+### Enlaces:
+- [EntreBicis - Repositorio GitHub](https://github.com/TheReaperRK/EntreBicis)
+
+
