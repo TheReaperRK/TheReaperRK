@@ -1,11 +1,12 @@
 # Carlos Mendoza Jiménez
 
 ## Desarrollador de software junior  
-Especializado en **sistemas embebidos, backend y desarrollo móvil**.  
+Especializado en **frontend, backend, desarrollo móvil y sistemas embebidos**.  
 Formación finalizada en Desarrollo de Aplicaciones Multiplataforma, con experiencia práctica en proyectos académicos y personales, integración hardware–software y desarrollo de aplicaciones completas.
 
 ## Áreas de competencia
 - **Backend**: Java, Spring Boot, APIs REST, SQL
+- **Frontend**: HTML · CSS · JavaScript
 - **Desarrollo móvil**: Android, Kotlin, Jetpack Compose
 - **Sistemas embebidos / IoT**: C, microcontroladores, integración hardware–software
 - **Otros**: PHP, Maven, Gradle, Git
